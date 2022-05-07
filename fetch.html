@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fetch</title>
+</head>
+<body>
+    <div>
+        <button id="fetchBtn">Fetch</button>
+        <br/>
+        <p id="fetchResult"></p>
+    </div>
+    <script>
+        const host = "https://dawn-hsj.github.io/albums"
+        const fetchRootUrl = 'https://api.github.com/repos/dawn-hsj/albums/contents'
+        const token = ''  // request X-RateLimit-Limit 5000/hr (default: 60/1hr)
+        let rootItems = []
+        // const category = []
+        let photosData = {}
+        const fetchRootData = () => {
+            fetch(fetchRootUrl,{
+            headers: {
+                Authorization: token
+            }
+            })
+            .then(res => res.json()).then(res => {
+                rootItems = res
+
+                photosData = rootItems.map(item=>{
+                    return {
+                        name: item.name,
+                        url: item.url,
+                        images: []
+                    }
+                })
+                return photosData
+            })
+            .then(res => {
+                photosData.forEach((album, idx) => {
+                    album.images = fetchAlbumData(album, idx)
+                })
+            })
+        }
+        const fetchAlbumData = (album, idx) => {
+            let images = []
+            fetch(album.url,{
+                headers: {
+                    Authorization: token
+                }
+            })
+            .then(res => res.json()).then(res => {
+                res.forEach(photo=>
+                    images.push({
+                        title: photo.name,
+                        src: photo.download_url,
+                    })
+                )
+                photosData[idx].images = images
+            })
+        }
+        
+        document.getElementById("fetchBtn").addEventListener("click", ()=>{
+                fetchRootData()
+                setTimeout(() => {
+                    document.getElementById("fetchResult").innerText = JSON.stringify(photosData);
+                }, 6000);
+            });
+    </script>
+    
+</body>
+</html>
