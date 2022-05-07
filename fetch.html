@@ -6,19 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>fetch</title>
 </head>
+<style>
+    #copyInput {
+        opacity: 0;
+    }
+</style>
 <body>
     <div>
         <button id="fetchBtn">Fetch</button>
+        <button id="copyBtn">Copy</button>
         <br/>
         <p id="fetchResult"></p>
     </div>
     <script>
-        const host = "https://dawn-hsj.github.io/albums"
-        const fetchRootUrl = 'https://api.github.com/repos/dawn-hsj/albums/contents'
+        const fetchRootUrl = 'https://api.github.com/repos/dawn-hsj/albums/contents/photos?ref=master'
         const token = ''  // request X-RateLimit-Limit 5000/hr (default: 60/1hr)
         let rootItems = []
         // const category = []
         let photosData = {}
+        let result = ''
         const fetchRootData = () => {
             fetch(fetchRootUrl,{
             headers: {
@@ -58,15 +64,27 @@
                     })
                 )
                 photosData[idx].images = images
+                result = JSON.stringify(photosData)
+                document.getElementById("fetchResult").innerText = result
             })
         }
         
         document.getElementById("fetchBtn").addEventListener("click", ()=>{
-                fetchRootData()
-                setTimeout(() => {
-                    document.getElementById("fetchResult").innerText = JSON.stringify(photosData);
-                }, 6000);
-            });
+            fetchRootData()
+        });
+        document.getElementById("copyBtn").addEventListener("click", ()=>{
+            let copyInput = document.getElementById('copyInput')
+            if (!copyInput) {
+                copyInput = document.createElement('input')
+                document.body.appendChild(copyInput)
+                copyInput.setAttribute('id', 'copyInput')
+            }
+            copyInput.value = result
+            copyInput.select()
+            document.execCommand('Copy')
+            alert('copy!')
+        });
+            
     </script>
     
 </body>
