@@ -1,335 +1,412 @@
 [
     {
-        "name": "【動物】",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E5%8B%95%E7%89%A9%E3%80%91?ref=master",
+        "name": "動物",
+        "id": "8e16933b4ff8db1e5c7e9bffe8ed40e757e31440",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E5%8B%95%E7%89%A9?ref=master",
         "images": [
             {
                 "title": "IMG_4058-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%8B%95%E7%89%A9%E3%80%91/IMG_4058-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%8B%95%E7%89%A9/IMG_4058-2.jpg",
+                "id": "501ca25a9dc2e814a65cbdce269cd9f89caf5eb8"
             }
         ]
     },
     {
-        "name": "【四季】冬季",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E5%86%AC%E5%AD%A3?ref=master",
+        "name": "四季-冬季",
+        "id": "0653d16c52ee74f7607605552cdc7d3739f3b2f7",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E5%9B%9B%E5%AD%A3-%E5%86%AC%E5%AD%A3?ref=master",
         "images": [
             {
                 "title": "IMG_0499-200225.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E5%86%AC%E5%AD%A3/IMG_0499-200225.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E5%86%AC%E5%AD%A3/IMG_0499-200225.jpg",
+                "id": "4b376884379decc32056bcbbe9a194ded8ab6cfb"
             },
             {
                 "title": "IMG_0842.JPG",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E5%86%AC%E5%AD%A3/IMG_0842.JPG"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E5%86%AC%E5%AD%A3/IMG_0842.JPG",
+                "id": "3860839930200d52855f82b5ea212d4ae223e54a"
             },
             {
                 "title": "Snowscape (1).jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E5%86%AC%E5%AD%A3/Snowscape%20(1).jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E5%86%AC%E5%AD%A3/Snowscape%20(1).jpg",
+                "id": "0b4fa1f6b9f709107f1d089bfde6f86c6b529a2a"
             },
             {
                 "title": "Snowscape (2).jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E5%86%AC%E5%AD%A3/Snowscape%20(2).jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E5%86%AC%E5%AD%A3/Snowscape%20(2).jpg",
+                "id": "1ba89e9e6fd5bfe52679c21bf8b588d8b157da61"
             }
         ]
     },
     {
-        "name": "【四季】夏季",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E5%A4%8F%E5%AD%A3?ref=master",
+        "name": "四季-夏季",
+        "id": "41b0d0465b010783073e8024c3c27e81b3671cab",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E5%9B%9B%E5%AD%A3-%E5%A4%8F%E5%AD%A3?ref=master",
         "images": [
             {
                 "title": "IMG_4109-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E5%A4%8F%E5%AD%A3/IMG_4109-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E5%A4%8F%E5%AD%A3/IMG_4109-2.jpg",
+                "id": "ff1f2aa65477051c254dd2bae87bf858f2ec16d7"
             },
             {
                 "title": "IMG_4121-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E5%A4%8F%E5%AD%A3/IMG_4121-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E5%A4%8F%E5%AD%A3/IMG_4121-2.jpg",
+                "id": "51f6031f61a4c667db591c2d460bc8c4bab56a99"
             },
             {
                 "title": "IMG_4147-3.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E5%A4%8F%E5%AD%A3/IMG_4147-3.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E5%A4%8F%E5%AD%A3/IMG_4147-3.jpg",
+                "id": "70d30e500ce40e96200c6d73e6e2a5831c4054db"
             },
             {
                 "title": "IMG_4152.JPG",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E5%A4%8F%E5%AD%A3/IMG_4152.JPG"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E5%A4%8F%E5%AD%A3/IMG_4152.JPG",
+                "id": "8ee15062fb7c47a74233d8e8b99178c60cfe6951"
             }
         ]
     },
     {
-        "name": "【四季】春季",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3?ref=master",
+        "name": "四季-春季",
+        "id": "875a59c37eeb209512682958e6f3f914c6617a58",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3?ref=master",
         "images": [
             {
                 "title": "2014-01-31 15.25.40.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/2014-01-31%2015.25.40.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/2014-01-31%2015.25.40.jpg",
+                "id": "aa8525065f602f93ae838a13536914765409d4f5"
             },
             {
                 "title": "2015-02-16 09.27.43.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/2015-02-16%2009.27.43.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/2015-02-16%2009.27.43.jpg",
+                "id": "3e56b9c3f127cf27f9cee6350f0ddcc843c2258e"
             },
             {
                 "title": "2015-02-16 09.33.35.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/2015-02-16%2009.33.35.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/2015-02-16%2009.33.35.jpg",
+                "id": "569c17ff677835108efbb9e3d15ddcf86d7e8a21"
             },
             {
                 "title": "2015-02-16 09.33.55.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/2015-02-16%2009.33.55.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/2015-02-16%2009.33.55.jpg",
+                "id": "a9441b2c3fad16ccf0f435e4be118e4e4f6a006f"
             },
             {
                 "title": "2015-02-16 09.38.51.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/2015-02-16%2009.38.51.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/2015-02-16%2009.38.51.jpg",
+                "id": "d754c1cf984bbc5039da33a93d2fc8edc08ae547"
             },
             {
                 "title": "2015-02-16 09.40.54.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/2015-02-16%2009.40.54.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/2015-02-16%2009.40.54.jpg",
+                "id": "3a4669d2e666aaf12b9e93376fe80c044a952fd4"
             },
             {
                 "title": "2016-03-05 08.30.30.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/2016-03-05%2008.30.30.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/2016-03-05%2008.30.30.jpg",
+                "id": "abada044c2b2cda907dc125a1d9719bb53efb958"
             },
             {
                 "title": "IMG_0059-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/IMG_0059-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/IMG_0059-2.jpg",
+                "id": "78649d0d69ce349058ec582712edfd7d4a49ed93"
             },
             {
                 "title": "IMG_2807.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/IMG_2807.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/IMG_2807.jpg",
+                "id": "413fdd49c666eedb9b6b3bf650762b04bbc0518a"
             },
             {
                 "title": "IMG_2917-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/IMG_2917-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/IMG_2917-2.jpg",
+                "id": "d11a42261b70b1bd65c640a6df75c449eeea2015"
             },
             {
                 "title": "IMG_2919-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/IMG_2919-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/IMG_2919-2.jpg",
+                "id": "8d802d862dc4dde251e23ea28a87498e39ea4b6b"
             },
             {
                 "title": "IMG_2977.JPG",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/IMG_2977.JPG"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/IMG_2977.JPG",
+                "id": "2b7789665c7a29a36ab2a4367e3b6be7d280f115"
             },
             {
                 "title": "IMG_2982.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/IMG_2982.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/IMG_2982.jpg",
+                "id": "956ee16fdfc4f12af5d6c9322e961c3be1d1593e"
             },
             {
                 "title": "IMG_2983.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/IMG_2983.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/IMG_2983.jpg",
+                "id": "dc8b8e6f2744c419bfaf0c10b2a23120a9fe9dd8"
             },
             {
                 "title": "P1120898.JPG",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%9B%9B%E5%AD%A3%E3%80%91%E6%98%A5%E5%AD%A3/P1120898.JPG"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%9B%9B%E5%AD%A3-%E6%98%A5%E5%AD%A3/P1120898.JPG",
+                "id": "ceb965f1bbe680d20d4290765a3f95698eaed726"
             }
         ]
     },
     {
-        "name": "【夜晚】燈景",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E5%A4%9C%E6%99%9A%E3%80%91%E7%87%88%E6%99%AF?ref=master",
+        "name": "夜晚-燈景",
+        "id": "c8c44ba35f431068d0fe14f7602c34d1f4488b06",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E5%A4%9C%E6%99%9A-%E7%87%88%E6%99%AF?ref=master",
         "images": [
             {
                 "title": "2016-04-01 23.02-5.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%A4%9C%E6%99%9A%E3%80%91%E7%87%88%E6%99%AF/2016-04-01%2023.02-5.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%A4%9C%E6%99%9A-%E7%87%88%E6%99%AF/2016-04-01%2023.02-5.jpg",
+                "id": "0032850fd557c3cc600946351d9c8d61c44fc839"
             },
             {
                 "title": "2016-04-16 19.57-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%A4%9C%E6%99%9A%E3%80%91%E7%87%88%E6%99%AF/2016-04-16%2019.57-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%A4%9C%E6%99%9A-%E7%87%88%E6%99%AF/2016-04-16%2019.57-2.jpg",
+                "id": "ac6f2fb178f5fc3bdc23aea94f3fca3a6bd13264"
             },
             {
                 "title": "IMG_0179-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%A4%9C%E6%99%9A%E3%80%91%E7%87%88%E6%99%AF/IMG_0179-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%A4%9C%E6%99%9A-%E7%87%88%E6%99%AF/IMG_0179-2.jpg",
+                "id": "3a669154e77278497c8132bd8f860f15bfb43c19"
             },
             {
                 "title": "IMG_0180-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%A4%9C%E6%99%9A%E3%80%91%E7%87%88%E6%99%AF/IMG_0180-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%A4%9C%E6%99%9A-%E7%87%88%E6%99%AF/IMG_0180-2.jpg",
+                "id": "73a5249d31754c6638f03e52d4d4cfa05f23e9f1"
             },
             {
                 "title": "IMG_4459-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%A4%9C%E6%99%9A%E3%80%91%E7%87%88%E6%99%AF/IMG_4459-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%A4%9C%E6%99%9A-%E7%87%88%E6%99%AF/IMG_4459-2.jpg",
+                "id": "a2ebfa968c127be620c898208aa26018d1509dc5"
             },
             {
                 "title": "IMG_8428-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%A4%9C%E6%99%9A%E3%80%91%E7%87%88%E6%99%AF/IMG_8428-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%A4%9C%E6%99%9A-%E7%87%88%E6%99%AF/IMG_8428-2.jpg",
+                "id": "26147f7ef94a24c6612d0a645d6ada0772a5065b"
             },
             {
                 "title": "IMG_8429-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%A4%9C%E6%99%9A%E3%80%91%E7%87%88%E6%99%AF/IMG_8429-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%A4%9C%E6%99%9A-%E7%87%88%E6%99%AF/IMG_8429-2.jpg",
+                "id": "800ac155051dc123c6e5a467d2e792bf97ac1f0b"
             },
             {
                 "title": "IMG_8430-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%A4%9C%E6%99%9A%E3%80%91%E7%87%88%E6%99%AF/IMG_8430-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%A4%9C%E6%99%9A-%E7%87%88%E6%99%AF/IMG_8430-2.jpg",
+                "id": "e704d15ec6395c4d20cba8cbd3ea5bae0e91f326"
             },
             {
                 "title": "IMG_8437-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%A4%9C%E6%99%9A%E3%80%91%E7%87%88%E6%99%AF/IMG_8437-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%A4%9C%E6%99%9A-%E7%87%88%E6%99%AF/IMG_8437-2.jpg",
+                "id": "9849a45d882cd8dc54d70d980547bf5fb58a6c42"
             },
             {
                 "title": "IMG_8522-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%A4%9C%E6%99%9A%E3%80%91%E7%87%88%E6%99%AF/IMG_8522-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%A4%9C%E6%99%9A-%E7%87%88%E6%99%AF/IMG_8522-2.jpg",
+                "id": "3bc3ff103220c85c606d3d7d0d0afd25e4586c6b"
             },
             {
                 "title": "IMG_8906-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E5%A4%9C%E6%99%9A%E3%80%91%E7%87%88%E6%99%AF/IMG_8906-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E5%A4%9C%E6%99%9A-%E7%87%88%E6%99%AF/IMG_8906-2.jpg",
+                "id": "c1776e84f7781b97d11270745455e3cf79a90530"
             }
         ]
     },
     {
-        "name": "【時節】聖誕",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E6%99%82%E7%AF%80%E3%80%91%E8%81%96%E8%AA%95?ref=master",
+        "name": "時節-聖誕",
+        "id": "69b2c2a8ab3d10d08f216d79dad7e64e308e46c8",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E6%99%82%E7%AF%80-%E8%81%96%E8%AA%95?ref=master",
         "images": [
             {
                 "title": "008.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E6%99%82%E7%AF%80%E3%80%91%E8%81%96%E8%AA%95/008.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E6%99%82%E7%AF%80-%E8%81%96%E8%AA%95/008.jpg",
+                "id": "d06e0d64e55da989ae4bde769887fb9fe052ef99"
             },
             {
                 "title": "CYMERA_20131220_180106.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E6%99%82%E7%AF%80%E3%80%91%E8%81%96%E8%AA%95/CYMERA_20131220_180106.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E6%99%82%E7%AF%80-%E8%81%96%E8%AA%95/CYMERA_20131220_180106.jpg",
+                "id": "df03567ffaf919ee503f63faa5cb39558844733f"
             },
             {
                 "title": "IMG_8444-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E6%99%82%E7%AF%80%E3%80%91%E8%81%96%E8%AA%95/IMG_8444-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E6%99%82%E7%AF%80-%E8%81%96%E8%AA%95/IMG_8444-2.jpg",
+                "id": "151b24255b6c78002028abb153b0c115f71c1b6f"
             },
             {
                 "title": "IMG_8488-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E6%99%82%E7%AF%80%E3%80%91%E8%81%96%E8%AA%95/IMG_8488-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E6%99%82%E7%AF%80-%E8%81%96%E8%AA%95/IMG_8488-2.jpg",
+                "id": "be80ce7e4af8dbf1732f48526d1f0cdfd3722950"
             },
             {
                 "title": "IMG_8501-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E6%99%82%E7%AF%80%E3%80%91%E8%81%96%E8%AA%95/IMG_8501-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E6%99%82%E7%AF%80-%E8%81%96%E8%AA%95/IMG_8501-2.jpg",
+                "id": "b7623fdecf31b913cf4df74014e09fb56b353727"
             },
             {
                 "title": "IMG_8509-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E6%99%82%E7%AF%80%E3%80%91%E8%81%96%E8%AA%95/IMG_8509-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E6%99%82%E7%AF%80-%E8%81%96%E8%AA%95/IMG_8509-2.jpg",
+                "id": "84a94004048bff6d13930a13dc7edbbdf5febf0e"
             }
         ]
     },
     {
-        "name": "【自然】天空",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E8%87%AA%E7%84%B6%E3%80%91%E5%A4%A9%E7%A9%BA?ref=master",
+        "name": "自然-天空",
+        "id": "eb00ebc80a9e81b1050e6a43e7c114acfbf2dc52",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E8%87%AA%E7%84%B6-%E5%A4%A9%E7%A9%BA?ref=master",
         "images": [
             {
                 "title": "2016-03-06 07.09.36-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E8%87%AA%E7%84%B6%E3%80%91%E5%A4%A9%E7%A9%BA/2016-03-06%2007.09.36-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E8%87%AA%E7%84%B6-%E5%A4%A9%E7%A9%BA/2016-03-06%2007.09.36-2.jpg",
+                "id": "2bd8fcdd4148af5a280d6b179aee9f530fb67a12"
             },
             {
                 "title": "2016-03-27 12.46-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E8%87%AA%E7%84%B6%E3%80%91%E5%A4%A9%E7%A9%BA/2016-03-27%2012.46-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E8%87%AA%E7%84%B6-%E5%A4%A9%E7%A9%BA/2016-03-27%2012.46-2.jpg",
+                "id": "599aa72f2c939603e8f87865dd2471fa8040f8b0"
             },
             {
                 "title": "2016-03-27 12.46.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E8%87%AA%E7%84%B6%E3%80%91%E5%A4%A9%E7%A9%BA/2016-03-27%2012.46.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E8%87%AA%E7%84%B6-%E5%A4%A9%E7%A9%BA/2016-03-27%2012.46.jpg",
+                "id": "679a72bf6a617606f75ae8f4294ab15fa7ce9cb8"
             }
         ]
     },
     {
-        "name": "【自然】流水",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E8%87%AA%E7%84%B6%E3%80%91%E6%B5%81%E6%B0%B4?ref=master",
+        "name": "自然-流水",
+        "id": "ee8f376d52db565ddf3f599a9be30a9834e3f0f9",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E8%87%AA%E7%84%B6-%E6%B5%81%E6%B0%B4?ref=master",
         "images": [
             {
                 "title": "IMG_5314-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E8%87%AA%E7%84%B6%E3%80%91%E6%B5%81%E6%B0%B4/IMG_5314-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E8%87%AA%E7%84%B6-%E6%B5%81%E6%B0%B4/IMG_5314-2.jpg",
+                "id": "966695431aa078c1f402465bc251a9fbb94dbd80"
             },
             {
                 "title": "IMG_5320-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E8%87%AA%E7%84%B6%E3%80%91%E6%B5%81%E6%B0%B4/IMG_5320-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E8%87%AA%E7%84%B6-%E6%B5%81%E6%B0%B4/IMG_5320-2.jpg",
+                "id": "7288b57842483ba1be5b780c941edd391fc67eff"
             },
             {
                 "title": "IMG_5347-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E8%87%AA%E7%84%B6%E3%80%91%E6%B5%81%E6%B0%B4/IMG_5347-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E8%87%AA%E7%84%B6-%E6%B5%81%E6%B0%B4/IMG_5347-2.jpg",
+                "id": "4654fdb0a46fec99ca64eefba6b25960224349cb"
             },
             {
                 "title": "IMG_5360-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E8%87%AA%E7%84%B6%E3%80%91%E6%B5%81%E6%B0%B4/IMG_5360-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E8%87%AA%E7%84%B6-%E6%B5%81%E6%B0%B4/IMG_5360-2.jpg",
+                "id": "2b09ab09ebb1d2b5d44653e8324ec2c769db8119"
             }
         ]
     },
     {
-        "name": "【行走】街景",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E8%A1%8C%E8%B5%B0%E3%80%91%E8%A1%97%E6%99%AF?ref=master",
+        "name": "行走-街景",
+        "id": "7c575efba7de245d07d4a9cf9a41b4df67094083",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E8%A1%8C%E8%B5%B0-%E8%A1%97%E6%99%AF?ref=master",
         "images": [
             {
                 "title": "IMG_4588-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E8%A1%8C%E8%B5%B0%E3%80%91%E8%A1%97%E6%99%AF/IMG_4588-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E8%A1%8C%E8%B5%B0-%E8%A1%97%E6%99%AF/IMG_4588-2.jpg",
+                "id": "bbbf57a57c247196e3805d18f0da91c3f97f998e"
             },
             {
                 "title": "IMG_4628-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E8%A1%8C%E8%B5%B0%E3%80%91%E8%A1%97%E6%99%AF/IMG_4628-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E8%A1%8C%E8%B5%B0-%E8%A1%97%E6%99%AF/IMG_4628-2.jpg",
+                "id": "16972cc85dbb9e581e803a9853149f1785dbeda0"
             }
         ]
     },
     {
-        "name": "【遠眺】夜景",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E5%A4%9C%E6%99%AF?ref=master",
+        "name": "遠眺-夜景",
+        "id": "cbf3383cec72b4d0e3b09e3378785d7fc9e5688d",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E9%81%A0%E7%9C%BA-%E5%A4%9C%E6%99%AF?ref=master",
         "images": [
             {
                 "title": "160528-3.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E5%A4%9C%E6%99%AF/160528-3.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%81%A0%E7%9C%BA-%E5%A4%9C%E6%99%AF/160528-3.jpg",
+                "id": "7a8846c64402ce3420a7aa6267b8f5808e36bc10"
             },
             {
                 "title": "IMG_4471-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E5%A4%9C%E6%99%AF/IMG_4471-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%81%A0%E7%9C%BA-%E5%A4%9C%E6%99%AF/IMG_4471-2.jpg",
+                "id": "68ece8deed8014ca023b5317e1165fe246c21425"
             },
             {
                 "title": "IMG_4481-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E5%A4%9C%E6%99%AF/IMG_4481-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%81%A0%E7%9C%BA-%E5%A4%9C%E6%99%AF/IMG_4481-2.jpg",
+                "id": "65196aa001e78994d936ffa8cf06617d5ea75cc2"
             },
             {
                 "title": "IMG_4505-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E5%A4%9C%E6%99%AF/IMG_4505-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%81%A0%E7%9C%BA-%E5%A4%9C%E6%99%AF/IMG_4505-2.jpg",
+                "id": "30f25112a776229f9e035abeb1167e46ef5a3ccb"
             },
             {
                 "title": "IMG_4508-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E5%A4%9C%E6%99%AF/IMG_4508-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%81%A0%E7%9C%BA-%E5%A4%9C%E6%99%AF/IMG_4508-2.jpg",
+                "id": "e35899c93dacc9a72f753768302748d3b96508aa"
             },
             {
                 "title": "IMG_4512-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E5%A4%9C%E6%99%AF/IMG_4512-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%81%A0%E7%9C%BA-%E5%A4%9C%E6%99%AF/IMG_4512-2.jpg",
+                "id": "72ad9fbd585bc0939079f5a7775af99ded6e1f73"
             },
             {
                 "title": "IMG_4526-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E5%A4%9C%E6%99%AF/IMG_4526-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%81%A0%E7%9C%BA-%E5%A4%9C%E6%99%AF/IMG_4526-2.jpg",
+                "id": "d3ff3c0bcd1318b984f1ca994a6774ccf9f8bbb0"
             }
         ]
     },
     {
-        "name": "【遠眺】日夜交錯時刻",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E6%97%A5%E5%A4%9C%E4%BA%A4%E9%8C%AF%E6%99%82%E5%88%BB?ref=master",
+        "name": "遠眺-日夜交錯時刻",
+        "id": "cc961c4a417f300bff5448959984adceed5e335c",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E9%81%A0%E7%9C%BA-%E6%97%A5%E5%A4%9C%E4%BA%A4%E9%8C%AF%E6%99%82%E5%88%BB?ref=master",
         "images": [
             {
                 "title": "IMG_4371-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E6%97%A5%E5%A4%9C%E4%BA%A4%E9%8C%AF%E6%99%82%E5%88%BB/IMG_4371-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%81%A0%E7%9C%BA-%E6%97%A5%E5%A4%9C%E4%BA%A4%E9%8C%AF%E6%99%82%E5%88%BB/IMG_4371-2.jpg",
+                "id": "fcbfa5585225c3240820e0deaf3fe8fe9add6888"
             },
             {
                 "title": "IMG_4402-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E6%97%A5%E5%A4%9C%E4%BA%A4%E9%8C%AF%E6%99%82%E5%88%BB/IMG_4402-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%81%A0%E7%9C%BA-%E6%97%A5%E5%A4%9C%E4%BA%A4%E9%8C%AF%E6%99%82%E5%88%BB/IMG_4402-2.jpg",
+                "id": "6a17fcb1bbc4cb3b27e2d2bd61b2b6960cd8a0d6"
             },
             {
                 "title": "IMG_4418-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E6%97%A5%E5%A4%9C%E4%BA%A4%E9%8C%AF%E6%99%82%E5%88%BB/IMG_4418-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%81%A0%E7%9C%BA-%E6%97%A5%E5%A4%9C%E4%BA%A4%E9%8C%AF%E6%99%82%E5%88%BB/IMG_4418-2.jpg",
+                "id": "ddf55da57176655594112144bdd1e68639fdc3eb"
             }
         ]
     },
     {
-        "name": "【遠眺】日景",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E6%97%A5%E6%99%AF?ref=master",
+        "name": "遠眺-日景",
+        "id": "14c4e19c32c8f7da249800d7111fab1c755d4fb6",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E9%81%A0%E7%9C%BA-%E6%97%A5%E6%99%AF?ref=master",
         "images": [
             {
                 "title": "IMG_4386-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%81%A0%E7%9C%BA%E3%80%91%E6%97%A5%E6%99%AF/IMG_4386-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%81%A0%E7%9C%BA-%E6%97%A5%E6%99%AF/IMG_4386-2.jpg",
+                "id": "d60fa1c93e4aa44f7c195eb760321bafd01d3ca0"
             }
         ]
     },
     {
-        "name": "【靜物】美食",
-        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E3%80%90%E9%9D%9C%E7%89%A9%E3%80%91%E7%BE%8E%E9%A3%9F?ref=master",
+        "name": "靜物-美食",
+        "id": "a2a96798b643b5dd4c0bd152d20d64f6ae9c939e",
+        "url": "https://api.github.com/repos/dawn-hsj/albums/contents/photos/%E9%9D%9C%E7%89%A9-%E7%BE%8E%E9%A3%9F?ref=master",
         "images": [
             {
                 "title": "2016-02-05 23.09.42.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%9D%9C%E7%89%A9%E3%80%91%E7%BE%8E%E9%A3%9F/2016-02-05%2023.09.42.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%9D%9C%E7%89%A9-%E7%BE%8E%E9%A3%9F/2016-02-05%2023.09.42.jpg",
+                "id": "000203a68122fda879785aa4a009af196191d2f9"
             },
             {
                 "title": "IMG_1737-name.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%9D%9C%E7%89%A9%E3%80%91%E7%BE%8E%E9%A3%9F/IMG_1737-name.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%9D%9C%E7%89%A9-%E7%BE%8E%E9%A3%9F/IMG_1737-name.jpg",
+                "id": "418f6ea2caed612c01e6e4811878119b86a6623a"
             },
             {
                 "title": "IMG_9179-2.jpg",
-                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E3%80%90%E9%9D%9C%E7%89%A9%E3%80%91%E7%BE%8E%E9%A3%9F/IMG_9179-2.jpg"
+                "src": "https://raw.githubusercontent.com/dawn-hsj/albums/master/photos/%E9%9D%9C%E7%89%A9-%E7%BE%8E%E9%A3%9F/IMG_9179-2.jpg",
+                "id": "4b5864a5eca62315b8c40ca3c598022170b17fa1"
             }
         ]
     }
