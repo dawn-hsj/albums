@@ -37,6 +37,7 @@
                 photosData = rootItems.map(item=>{
                     return {
                         name: item.name,
+                        id: item.sha,
                         url: item.url,
                         images: []
                     }
@@ -61,6 +62,7 @@
                     images.push({
                         title: photo.name,
                         src: photo.download_url,
+                        id: photo.sha,
                     })
                 )
                 photosData[idx].images = images
